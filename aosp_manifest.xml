@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!--Tree -->
+ <project path="device/motorola/osprey" name="##" remote="github" revision="##" />
+
+ <!--Common Tree --> 
+ <project path="device/motorola/msm8916-common" name="##" remote="github" revision="##" /> 
+ <!--Kernel -->
+ <project path="kernel/motorola/msm8916" name="##" remote="github" revision="##" />
+ 
+ <!--Vendor -->
+ <project path="vendor/motorola" name="##" remote="github" revision="##" />
+ 
+ <!--Extras -->
+ <project path="packages/resources/devicesettings" name="##" remote="github" revision="##" />
+ 
+</manifest>
